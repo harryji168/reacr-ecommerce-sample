@@ -5,6 +5,14 @@ This is a fully functional react E-Commerce website which displays the items and
 
 ![Ecommerce_Website](/src/assets/ecommerce.png)
 
+https://commercejs.com/   
+
+REACT_APP_CHEC_PUBLIC_KEY=pk_test_23249ecdde036dda3da757f533a70c8fedff4d91d1fca
+
+strip 
+REACT_APP_STRIPE_PUBLIC_KEY=pk_test_51IMEJpCYSaIU3vcCxXVXhNfWHjaVKfyCAOSVhZSZfogsebfR5VPdFElULVO7a5vkOAmULDbqrjZadL7MQxHwbKtj00g2C6jn1x
+
+
 ## Installation
 
 
